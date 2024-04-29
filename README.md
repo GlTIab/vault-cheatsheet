@@ -149,8 +149,6 @@ vault write database/config/<name> plugin_name=mysql-database-plugin \
 
 # Feel free to contribute!
 
-[♡ Sponsor](https://github.com/sponsors/GlTIab)
-
 
 
 
